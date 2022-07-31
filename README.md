@@ -39,3 +39,5 @@ Here are a few technologies my group and I utilized for this project:
 * Art
 * Traveling
 * Data Science, Artificial Intelligence, Machine Learning
+
+Version 1.0 (Updated: July 31, 2022)
