@@ -23,14 +23,15 @@ Here are a few technologies my group and I utilized for this project:
 
 #### Personal Information
 * Name: Michelle Zhang
-* Anticipated Graduation Year: May 2024
+* Anticipated Graduation: May 2024
 * Major: Computer Science
 * Minor: Analytics
 * School Email: mizhang@chapman.edu
 * Personal Email: michelleeeezhangggg@gmail.com
 
-#### Resume
-* Link: [Michelle_Zhang_Resume.pdf](https://github.com/michelleezhangg/Scientific-Computing-Project/files/8903384/Michelle_Zhang_Resume.pdf)
+#### Portfolio & Resume
+* Personal Portfolio Website: 
+* Resume Link: [Michelle_Zhang_Resume.pdf](https://github.com/michelleezhangg/Scientific-Computing-Project/files/8903384/Michelle_Zhang_Resume.pdf)
 
 #### Interests
 * Film/Television
