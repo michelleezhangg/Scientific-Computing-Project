@@ -18,26 +18,3 @@ Here are a few technologies my group and I utilized for this project:
 * We utilized a few notable Python libraries: NumPy, SciPy, and Matplotlib.
 * This project was completed in Jupyter Notebook.
 * We also utilized Markdown to explain our code and display mathematical equations.
-
-## About Me
-
-#### Personal Information
-* Name: Michelle Zhang
-* Anticipated Graduation: May 2024
-* Major: Computer Science
-* Minor: Analytics
-* School Email: mizhang@chapman.edu
-* Personal Email: michelleeeezhangggg@gmail.com
-
-#### Portfolio & Resume
-* Personal Portfolio Website: 
-* Resume Link: [Michelle_Zhang_Resume.pdf](https://github.com/michelleezhangg/Scientific-Computing-Project/files/8903384/Michelle_Zhang_Resume.pdf)
-
-#### Interests
-* Film/Television
-* Music (Piano, Guitar, Choir/Vocals)
-* Art
-* Traveling
-* Data Science, Artificial Intelligence, Machine Learning
-
-Version 1.0 (Updated: July 31, 2022)
